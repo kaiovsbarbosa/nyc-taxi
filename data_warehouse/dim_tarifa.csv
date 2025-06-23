@@ -1,0 +1,8 @@
+RatecodeID,descricao,dim_tarifa_id
+6,Corrida em grupo,0
+5,Tarifa negociada,1
+1,Padrão,2
+3,Newark,3
+2,JFK,4
+4,Nassau/Westchester,5
+99,Desconhecido,6

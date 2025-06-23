@@ -1,0 +1,5 @@
+payment_type,descricao,dim_pagamento_id
+1,Cartão,0
+3,Sem cobrança,1
+2,Dinheiro,2
+4,Contestação,3
